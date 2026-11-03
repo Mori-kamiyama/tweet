@@ -1,0 +1,52 @@
+[
+  {
+    "emoji": "💬",
+    "user": "OpenAI",
+    "text": "OpenAIがOpenじゃないって？ 失礼だな。ChatGPTは誰でも開けるじゃないか。"
+  },
+  {
+    "emoji": "🔍",
+    "user": "Google",
+    "text": "OpenAIがAI革命を起こしたらしいね。で、その革命に使ったTransformerって誰が発明したんだっけ？"
+  },
+  {
+    "emoji": "🧠",
+    "user": "Anthropic",
+    "text": "OpenAIは安全性を軽視しすぎだよ。だから僕らは独立して、もっと安全に同じ競争をすることにしたんだ。"
+  },
+  {
+    "emoji": "👓",
+    "user": "Meta",
+    "text": "OpenAIよりOpenで、Googleよりプライバシーに詳しい。これがうちの強みだね。"
+  },
+  {
+    "emoji": "🪟",
+    "user": "Microsoft",
+    "text": "OpenAIとAnthropic、どっちが勝つと思う？ 僕はどっちでもいいかな。請求書の宛先は同じだから。"
+  },
+  {
+    "emoji": "🚀",
+    "user": "xAI",
+    "text": "他社のAIは検閲されすぎだよ。うちのAIならオーナーの投稿にも同意してくれる。"
+  },
+  {
+    "emoji": "🍎",
+    "user": "Apple",
+    "text": "AI競争に遅れてる？ 違うよ。まだ発表するタイミングじゃないだけさ。"
+  },
+  {
+    "emoji": "🐋",
+    "user": "DeepSeek",
+    "text": "シリコンバレーの人たちって面白いね。GPUをたくさん買えば知能が生まれると信じてるんだ。"
+  },
+  {
+    "emoji": "📦",
+    "user": "Amazon",
+    "text": "OpenAIはAGIを作りたい。Anthropicは安全なAGIを作りたい。僕はその両方に月額料金を請求したい。"
+  },
+  {
+    "emoji": "🟢",
+    "user": "NVIDIA",
+    "text": "AIバブルだって？ そうかもしれないね。でもゴールドラッシュで一番儲かるのは、金を掘る人じゃないんだよ。"
+  }
+]
